@@ -14,20 +14,6 @@ SOLUTIONS ARE AVAILABLE HERE.
 ![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FInternational_Mathematical_Olympiad&psig=AOvVaw2bzFkKQpvLyHo_eGCFU-uX&ust=1665847051585000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJDj5Y2C4PoCFQAAAAAdAAAAABAD)
 ## Screenshots
 
-![App Screenshot](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmatholympiad.org.bd%2F&psig=AOvVaw0fmGGfgC3_215bw1rc3Heo&ust=1665840921288000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNiL25fr3_oCFQAAAAAdAAAAABAD)
+![photo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmatholympiad.org.bd%2F&psig=AOvVaw0fmGGfgC3_215bw1rc3Heo&ust=1665840921288000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNiL25fr3_oCFQAAAAAdAAAAABAD)
 
-
-## Roadmap
-
-- Additional browser support
-
-- Add more integrations
-
-
-## Used By
-
-This project is used by the following companies:
-
-- Company 1
-- Company 2
 
